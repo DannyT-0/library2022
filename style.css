@@ -1,0 +1,22 @@
+body {
+	background-color: antiquewhite;
+}
+
+li {
+	padding: 2px;
+}
+
+.bookBox {
+	border: 5px solid black;
+	width: 10%;
+}
+
+.bookBoxTest {
+	border: 5px solid black;
+	width: 10%;
+}
+
+.inputForm {
+	border: 5px black solid;
+	width: 30%;
+}
